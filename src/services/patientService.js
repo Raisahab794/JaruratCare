@@ -68,9 +68,7 @@ const mockPatients = [
   },
 ];
 
-// Simulate API call with delay
-// This is MOCK data - completely fictional for demonstration
-// Replace with real API calls when you have a backend
+
 export const fetchPatients = () => {
   return new Promise((resolve) => {
     setTimeout(() => {
