@@ -29,22 +29,19 @@ A modern, responsive patient records management system built with React.
 
 ### Installation
 
-1. Navigate to the project directory:
-```bash
-cd c:\Users\Ayush Kumar Rai\Desktop\JaruratCare
-```
 
-2. Install dependencies:
+
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-3. Start the development server:
+2. Start the development server:
 ```bash
 npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Project Structure
 
