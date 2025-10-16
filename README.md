@@ -2,6 +2,7 @@
 
 A modern, responsive patient records management system built with React.
 
+ ![Jarurat Care Banner](screenshots/home-hero.png)
 ## Features
 
 - 🏥 **Landing Page** with professional design and navigation
@@ -43,5 +44,13 @@ npm start
 
 3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Project Structure
+## 📸 Screenshots
 
+### Patients Dashboard
+![Patients Dashboard](screenshots/patients-dashboard.png)
+
+### Patient Details Modal
+![Patient Details](screenshots/patient-modal.png)
+
+### Add New Patient Form
+![Add Patient Form](screenshots/add-patient-form.png)
